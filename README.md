@@ -4,7 +4,7 @@ A modern, professional portfolio website showcasing Team 12's expertise in web d
 
 ## 🌟 Live Demo
 
-Visit our portfolio: **[https://itxsugan.github.io/NM-PORTFOLIO-/](https://itxsugan.github.io/NM-PORTFOLIO-/)**
+Visit our portfolio: **[https://suganrajtech-jpg.github.io/NM-PORTFOLIO-/](https://suganrajtech-jpg.github.io/NM-PORTFOLIO-/)**
 
 ## 🚀 Features
 
@@ -185,8 +185,8 @@ NM-PORTFOLIO-/
 ## 🚀 Deployment
 
 ### GitHub Pages
-The site is already deployed on GitHub Pages at:
-**https://itxsuganrajtech-jpg.github.io/NM-PORTFOLIO-/**
+The site is deployed on GitHub Pages at:
+**https://suganrajtech-jpg.github.io/NM-PORTFOLIO-/**
 
 ### Manual Deployment
 1. Build the project (no build step required)
